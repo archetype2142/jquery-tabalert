@@ -1,4 +1,4 @@
-jquery-titlealert
+jquery-tabalert
 =================
 
 Flashes the page title with a custom message. 
